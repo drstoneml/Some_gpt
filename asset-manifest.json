@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cargpt/static/css/main.a9c1f952.css",
+    "main.js": "/cargpt/static/js/main.79eab54a.js",
+    "static/js/453.e9e3876d.chunk.js": "/cargpt/static/js/453.e9e3876d.chunk.js",
+    "index.html": "/cargpt/index.html",
+    "main.a9c1f952.css.map": "/cargpt/static/css/main.a9c1f952.css.map",
+    "main.79eab54a.js.map": "/cargpt/static/js/main.79eab54a.js.map",
+    "453.e9e3876d.chunk.js.map": "/cargpt/static/js/453.e9e3876d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9c1f952.css",
+    "static/js/main.79eab54a.js"
+  ]
+}
